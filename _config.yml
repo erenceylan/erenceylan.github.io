@@ -1,0 +1,11 @@
+name: Eren Ceylan
+description: Bir imzaya şahit oldum.
+url: http://www.kafandakurbagavar.com
+permalink: :categories/:title
+exclude: [deprecated, vendor, Gemfile, Procfile]
+safe: true
+highlighter: rouge
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
+
